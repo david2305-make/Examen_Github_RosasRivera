@@ -1,0 +1,17 @@
+/* Estilo general para todas las páginas */
+body {
+  font-family: Arial, sans-serif;
+  color: darkblue;
+}
+
+/* Fondo solo para cultura.html */
+body.cultura {
+  background-color: #fff2cc; /* un amarillo clarito */
+}
+
+/* Título */
+h1 {
+  color: #b36b00; /* naranja oscuro */
+}
+
+
